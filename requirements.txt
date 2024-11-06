@@ -1,0 +1,11 @@
+openpyxl
+pytrends
+seaborn
+streamlit
+tabulate
+pandas
+matplotlib
+numpy
+python-dateutil
+yfinance==0.2.40
+plotly
